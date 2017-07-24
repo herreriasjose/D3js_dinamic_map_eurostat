@@ -1,0 +1,77 @@
+   h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: bold;  
+     }
+
+   p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+     }
+     
+   label {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+     }
+
+  button {
+	display: inline-block;
+	line-height: 1;
+	padding: 7px 10px;
+	text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000;
+	background-color: #CCC;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+     }
+
+  input.button, button.button {
+	border: 0px none;
+     }
+
+    
+  #wrapper {
+    width: 500px;
+    height: 400px;
+      }
+      
+  #div1 {
+        width: 500px;
+        height: 350px;
+      }
+  
+  #div2 {
+        width: 500px;
+        height: 100px;
+        width: 50%;
+        margin: 0 auto;
+      }
+      
+  path {
+          stroke: #000;
+          stroke-width: 0.5px;
+      }
+      
+  .country {
+          fill: #7fc97f;
+      } 
+
+
+  div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 60px;					
+    height: 40px;					
+    padding: 2px;	
+    font-family: Arial, Helvetica, sans-serif;    
+    font-size: 12px;	
+    background:  #b0c4de;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+       }
