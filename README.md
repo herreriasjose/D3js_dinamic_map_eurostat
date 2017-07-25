@@ -8,7 +8,7 @@ Remember to add the GEO codes to the labels using the options:
 
 ![alt text](https://raw.githubusercontent.com/herreriasjose/d3js_dinamic_map_eurostat/master/2017-07-24-Database%20-%20Eurostat-02.png)
 
-After a little cleaning of the dataset and playing a while with D3.js, this is the result:
+This is the result after I worked on the code and also cleaned the dataset:
 
 ![alt text](https://raw.githubusercontent.com/herreriasjose/d3js_dinamic_map_eurostat/master/2017-07-24-Database%20-%20Eurostat-03.png)
 
